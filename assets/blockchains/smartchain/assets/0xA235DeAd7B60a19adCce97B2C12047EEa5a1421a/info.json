@@ -1,0 +1,11 @@
+{
+    "name": "MATA Token",
+    "symbol": "MATA",
+    "type": "BEP20",
+    "decimals": 18,
+    "website": "",
+    "description": "MATA Token on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0xA235DeAd7B60a19adCce97B2C12047EEa5a1421a",
+    "status": "active",
+    "id": "0xA235DeAd7B60a19adCce97B2C12047EEa5a1421a"
+}
