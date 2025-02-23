@@ -1,0 +1,34 @@
+{
+    "symbol": "MATA",
+    "name": "MATA Token",
+    "type": "BEP20",
+    "address": "0xA235DeAd7B60a19adCce97B2C12047EEa5a1421a",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": {
+        "src": "../images/0xA235DeAd7B60a19adCce97B2C12047EEa5a1421a.png",
+        "width": "256",
+        "height": "256",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "",
+        "youtube": ""
+    }
+}
